@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+This account is on hold for now, I use [another one](https://github.com/maroon17) for work and personal projects, so feel free to reach out there!
+
+![](https://media.giphy.com/media/l41YbikRcIPNEoUrS/giphy.gif)
+
 <!--
 **fyodorio/fyodorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
